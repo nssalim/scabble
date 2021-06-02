@@ -1,5 +1,5 @@
 <h1>Dictionaries - Scrabble</h1>
-<h3>To process data from a group playing scrabble. Use dictionaries to organize players, words, and points.
+<h3>To process data from a group playing scrabble. Use dictionaries to organize players, words and points.
 </h3>
 
 
