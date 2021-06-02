@@ -16,6 +16,5 @@
 <li><b>update_point_totals function</b></li>
 <p>A function called any time a word is played</p>
 
-<li><b>The letter_to_points dictionary</b></li> 
-<p>that can handle lowercase inputs</p>
-
+<li><b>Make letter_to_points dictionary</b></li> 
+<p>handle lowercase inputs</p>
